@@ -1,0 +1,2 @@
+playwright==1.44.0
+azure-storage-blob==12.20.0
